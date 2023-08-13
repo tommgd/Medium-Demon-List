@@ -2,10 +2,10 @@
     "id": 20727320,
     "name": "Dance Zone",
     "author": "ASonicMen",
-    "creators": [ASonicMen],
+    "creators": ["ASonicMen"],
     "verifier": "ASonicMen",
     "verification": "",
     "showcase": "https://www.youtube.com/watch?v=7pf6c7MZGGs",
-    "percentToQualify": ,
+    "percentToQualify": 100,
     "records": []
 }
