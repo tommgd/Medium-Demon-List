@@ -5,8 +5,8 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #8c00ff;
-    --color-primary-disabled: #642994;
+    --color-primary: #ff00fb;
+    --color-primary-disabled: #942994;
     --color-on-primary: white;
     --color-error: #de0000;
     --color-on-error: white;
@@ -18,7 +18,7 @@
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #542994;
+    --color-primary: #942989;
     --color-primary-disabled: #1f213c;
     --color-on-primary: white;
     --color-error: #de0000;
@@ -30,8 +30,8 @@
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #283593;
-    --color-primary-disabled: #1f213c;
+    --color-primary: #912893;
+    --color-primary-disabled: #3c1f3a;
     --color-on-primary: white;
     --color-error: #de0000;
     --color-on-error: white;
