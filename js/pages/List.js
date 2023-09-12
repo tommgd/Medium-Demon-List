@@ -41,9 +41,6 @@ export default {
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <div v-if="level.showcase" class="tabs">
-                        <button class="tab type-label-lg" :class="{selected: !toggledShowcase}" @click="toggledShowcase = false">
-                            <span class="type-label-lg">Showcase</span>
-                        </button>
                         <button class="tab" :class="{selected: toggledShowcase}" @click="toggledShowcase = true">
                             <span class="type-label-lg">Showcase</span>
                         </button>
