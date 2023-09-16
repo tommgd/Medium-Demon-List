@@ -72,7 +72,7 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Work In Progress</h3>
+                    <h3>The Medium Demon List</h3>
                     <p>
                     Template by the Shitty List Team (tsl.pages.dev)
                     </p>
