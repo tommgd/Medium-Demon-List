@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/kIBPfxdNrok?t=25",
     "showcase": "",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Music Addict",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
