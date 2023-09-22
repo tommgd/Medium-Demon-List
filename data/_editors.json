@@ -4,6 +4,11 @@
         "name": "Scy",
         "link": "https://www.youtube.com/channel/UCfv_RvdOwqMaDateGYK__0g"
     },
+        {
+        "role": "helper",
+        "name": "StarfruitGamer123",
+        "link": "https://www.youtube.com/@StarfruitGamer123"
+    },
        {
         "role": "helper",
         "name": "Bobbyp02",
@@ -36,9 +41,8 @@
     },
     {
         "role": "helper",
-        "name": "StarfruitGamer123",
-        "link": "https://www.youtube.com/@StarfruitGamer123"
-    },
+        "name": "M1Sushi",
+        "link": "https://www.youtube.com/@M1Sushi"
     {
         "role": "dev",
         "name": "simse",
