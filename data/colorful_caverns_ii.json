@@ -8,14 +8,14 @@
     "showcase": "",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "Scy",
+                {
+            "user": "cripencio99crip",
             "link": "",
             "percent": 100,
             "hz": 360
         },
-        {
-            "user": "cripencio99crip",
+                                {
+            "user": "Kuba",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -26,17 +26,18 @@
             "percent": 100,
             "hz": 360
         },
-                {
-            "user": "Maltow",
+        {
+            "user": "Scy",
             "link": "",
             "percent": 100,
             "hz": 360
         },
                 {
-            "user": "Kuba",
+            "user": "Maltow",
             "link": "",
             "percent": 100,
             "hz": 360
         }
+
     ]
 }
