@@ -72,7 +72,7 @@ export async function fetchLeaderboard() {
                 completed.push({
                     rank: rank + 1,
                     level: level.name,
-                    score: score(100),
+                    score: score(1),
                     link: record.link,
                 });
                 return;
