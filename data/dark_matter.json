@@ -7,5 +7,24 @@
     "verification": "https://www.youtube.com/watch?v=weaZKAt20Dw",
     "showcase": "",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "cripencio99crip",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Music Addict",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Scy",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

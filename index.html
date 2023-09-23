@@ -34,12 +34,15 @@
                 <img v-if="store.shitty" src="assets/april-logo.png" alt="TMDL Logo" />
                 <div v-else class="logo">
                     <h2>TMDL</h2>
-                    <p>v1.0</p>
+                    <p>v1.1</p>
                 </div>
             </div>
             <nav class="nav">
                 <router-link class="nav__tab" to="/">
                     <span class="type-label-lg">List</span>
+                </router-link>
+                <router-link class="nav__tab" to="/leaderboard">
+                    <span class="type-label-lg">Leaderboard</span>
                 </router-link>
 
                 <div class="nav__actions">
