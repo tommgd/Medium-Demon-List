@@ -31,11 +31,6 @@
     },
     {
         "role": "helper",
-        "name": "spectryl",
-        "link": "https://www.youtube.com/@loveSpectral"
-    },
-    {
-        "role": "helper",
         "name": "Faith",
         "link": ""
     },
@@ -48,5 +43,10 @@
         "role": "dev",
         "name": "simse",
         "link": "https://www.youtube.com/@simse./featured"
+    },
+    {
+        "role": "helper",
+        "name": "spectryl",
+        "link": "https://www.youtube.com/@loveSpectral"
     }
 ]
