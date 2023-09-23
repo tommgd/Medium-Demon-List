@@ -97,6 +97,9 @@ export default {
                     <p>
                     Template by the Shitty List Team (tsl.pages.dev)
                     </p>
+                    <p>
+                    Submit Records in the Discord Server
+                    </p>
                 </div>
             </div>
         </main>
