@@ -15,10 +15,16 @@
             "hz": 360
         },
         {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Brachiozaur",
             "link": "",
             "percent": 100,
             "hz": 360
         }
-        ]
+    ]
 }
