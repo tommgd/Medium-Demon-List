@@ -9,6 +9,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Music Addict",
             "link": "",
             "percent": 100,
