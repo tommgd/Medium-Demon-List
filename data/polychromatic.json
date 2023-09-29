@@ -2,7 +2,7 @@
     "id": 32668860,
     "name": "polychromatic",
     "author": "goose",
-    "creators": ["goose"],
+    "creators": [""],
     "verifier": "goose",
     "verification": "https://www.youtube.com/watch?v=2dt72p8exM0",
     "showcase": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

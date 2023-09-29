@@ -2,7 +2,7 @@
     "id": 68233186,
     "name": "Simplicity",
     "author": "Alvaromg15",
-    "creators": ["Alvaromg15"],
+    "creators": [""],
     "verifier": "Alvaromg15",
     "verification": "https://www.youtube.com/watch?v=427-37jGyZM",
     "showcase": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

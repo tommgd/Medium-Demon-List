@@ -2,7 +2,7 @@
     "id": 78492078,
     "name": "ReTInA",
     "author": "Moffer",
-    "creators": ["Moffer"],
+    "creators": [""],
     "verifier": "Moffer",
     "verification": "https://www.youtube.com/watch?v=EVLCfGpqTVY",
     "showcase": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

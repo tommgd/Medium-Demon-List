@@ -2,7 +2,7 @@
     "id": 20727320,
     "name": "Dance Zone",
     "author": "ASonicMen",
-    "creators": ["ASonicMen"],
+    "creators": [""],
     "verifier": "ASonicMen",
     "verification": "https://www.youtube.com/watch?v=7pf6c7MZGGs",
     "showcase": "",
@@ -22,6 +22,18 @@
         },
         {
             "user": "lightning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Bladey",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

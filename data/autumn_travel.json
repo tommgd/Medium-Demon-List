@@ -2,7 +2,7 @@
     "id": 51342384,
     "name": "Autumn Travel",
     "author": "JamAttack",
-    "creators": ["JamAttack"],
+    "creators": [""],
     "verifier": "JamAttack",
     "verification": "https://www.youtube.com/watch?v=sm66pUBYTeo",
     "showcase": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "cripencio99crip",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

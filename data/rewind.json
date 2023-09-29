@@ -2,7 +2,7 @@
     "id": 78109599,
     "name": "Rewind",
     "author": "mbedsun",
-    "creators": ["mbedsun"],
+    "creators": [""],
     "verifier": "mbedsun",
     "verification": "https://www.youtube.com/watch?v=8T4iUaIQTvA",
     "showcase": "",
@@ -22,6 +22,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

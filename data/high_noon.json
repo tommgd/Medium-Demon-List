@@ -2,7 +2,7 @@
     "id": 25986010,
     "name": "High Noon",
     "author": "Rustam",
-    "creators": ["Rustam"],
+    "creators": [""],
     "verifier": "Rustam",
     "verification": "https://www.youtube.com/watch?v=ZgZZUUBOc1M",
     "showcase": "",
@@ -34,6 +34,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

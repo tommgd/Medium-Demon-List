@@ -2,7 +2,7 @@
     "id": 17569606,
     "name": "BattleTown",
     "author": "Andro3d",
-    "creators": ["Andro3d"],
+    "creators": [""],
     "verifier": "Andro3d",
     "verification": "https://www.youtube.com/watch?v=zWIig73MUPs&t=6s",
     "showcase": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

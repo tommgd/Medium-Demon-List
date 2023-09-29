@@ -2,7 +2,7 @@
     "id": 19987018,
     "name": "Circus Maniacus",
     "author": "EpicLucas",
-    "creators": ["EpicLucas"],
+    "creators": [""],
     "verifier": "EpicLucas",
     "verification": "https://www.youtube.com/watch?v=DDqBYVkDsQE",
     "showcase": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

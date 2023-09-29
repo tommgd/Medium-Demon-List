@@ -2,7 +2,7 @@
     "id": 17010838,
     "name": "The Future Lab",
     "author": "CairoX",
-    "creators": ["CairoX"],
+    "creators": [""],
     "verifier": "CairoX",
     "verification": "https://www.youtube.com/watch?v=WBfcTrl3XZ8",
     "showcase": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

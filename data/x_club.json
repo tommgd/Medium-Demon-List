@@ -2,7 +2,7 @@
     "id": 652062,
     "name": "X Club",
     "author": "KeiAs",
-    "creators": ["KeiAs"],
+    "creators": [""],
     "verifier": "KeiAs",
     "verification": "https://www.youtube.com/watch?v=ajna3IPXgv0",
     "showcase": "",
@@ -27,7 +27,19 @@
             "hz": 360
         },
         {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "lightning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Faith",
             "link": "",
             "percent": 100,
             "hz": 360

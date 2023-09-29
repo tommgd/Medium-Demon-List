@@ -2,7 +2,7 @@
     "id": 4876299,
     "name": "Snow Temple",
     "author": "Evasium622",
-    "creators": ["Evasium622"],
+    "creators": [""],
     "verifier": "Evasium622",
     "verification": "https://www.youtube.com/watch?v=ELHyPpsFBoo",
     "showcase": "",
@@ -40,6 +40,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

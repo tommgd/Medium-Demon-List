@@ -2,7 +2,7 @@
     "id": 63564063,
     "name": "Beyond",
     "author": "Krawler",
-    "creators": ["Krawler"],
+    "creators": [""],
     "verifier": "Krawler",
     "verification": "https://www.youtube.com/watch?v=_7g1yfH9htA",
     "showcase": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

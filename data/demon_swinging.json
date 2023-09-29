@@ -2,7 +2,7 @@
     "id": 5817047,
     "name": "Demon Swinging",
     "author": "KeiAs",
-    "creators": ["KeiAs"],
+    "creators": [""],
     "verifier": "KeiAs",
     "verification": "https://www.youtube.com/watch?v=0x-FDd6WQ8w",
     "showcase": "",
@@ -28,6 +28,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

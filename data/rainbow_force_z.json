@@ -2,7 +2,7 @@
     "id": 56936301,
     "name": "Rainbow Force Z",
     "author": "Alkatraz",
-    "creators": ["Alkatraz"],
+    "creators": [""],
     "verifier": "Alkatraz",
     "verification": "https://www.youtube.com/watch?v=14_kmFVRVNE",
     "showcase": "",
@@ -10,6 +10,12 @@
     "records": [ 
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

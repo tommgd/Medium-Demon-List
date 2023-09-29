@@ -2,7 +2,7 @@
     "id": 76121003,
     "name": "bStep",
     "author": "BraedenTheCroco",
-    "creators": ["BraedenTheCroco"],
+    "creators": [""],
     "verifier": "BraedenTheCroco",
     "verification": "https://www.youtube.com/watch?v=snF-ygrvlnk",
     "showcase": "",
@@ -28,6 +28,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

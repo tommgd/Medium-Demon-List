@@ -2,7 +2,7 @@
     "id": 8856092,
     "name": "Rainbow Dust V2",
     "author": "Tygrysek",
-    "creators": ["Tygrysek"],
+    "creators": [""],
     "verifier": "Tygrysek",
     "verification": "https://www.youtube.com/watch?v=IqqApHGfvIk",
     "showcase": "",
@@ -34,6 +34,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

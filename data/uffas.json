@@ -2,7 +2,7 @@
     "id": 68732032,
     "name": "UFFAS",
     "author": "IMortlex",
-    "creators": ["IMortlex"],
+    "creators": [""],
     "verifier": "IMortlex",
     "verification": "https://www.youtube.com/watch?v=ypP3OYiOX-o",
     "showcase": "",
@@ -22,6 +22,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

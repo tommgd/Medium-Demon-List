@@ -2,7 +2,7 @@
     "id": 34211041,
     "name": "Megalovania",
     "author": "GD Jose",
-    "creators": ["GD Jose"],
+    "creators": [""],
     "verifier": "GD Jose",
     "verification": "https://www.youtube.com/watch?v=yor8GG_Slxg",
     "showcase": "",
@@ -27,7 +27,19 @@
             "hz": 360
         },
         {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "lightning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "KSol",
             "link": "",
             "percent": 100,
             "hz": 360

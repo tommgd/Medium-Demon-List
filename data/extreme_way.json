@@ -2,7 +2,7 @@
     "id": 169052,
     "name": "Extreme way",
     "author": "BEkID1442",
-    "creators": ["BEkID1442"],
+    "creators": [""],
     "verifier": "BEkID1442",
     "verification": "https://www.youtube.com/watch?v=OH-aEXLPP_0",
     "showcase": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

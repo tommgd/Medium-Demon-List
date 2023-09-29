@@ -2,7 +2,7 @@
     "id": 61234515,
     "name": "Awaiting Blizzard",
     "author": "ItzMezzo",
-    "creators": ["ItzMezzo"],
+    "creators": [""],
     "verifier": "ItzMezzo",
     "verification": "https://www.youtube.com/watch?v=JsGoZdAYncI",
     "showcase": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

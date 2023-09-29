@@ -2,7 +2,7 @@
     "id": 78195728,
     "name": "Aspect",
     "author": "HVyper",
-    "creators": ["HVyper"],
+    "creators": [""],
     "verifier": "HVyper",
     "verification": "https://www.youtube.com/watch?v=pvGxqY2LRgs",
     "showcase": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

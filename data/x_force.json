@@ -2,7 +2,7 @@
     "id": 2010671,
     "name": "X Force",
     "author": "KeiAs",
-    "creators": ["KeiAs"],
+    "creators": [""],
     "verifier": "KeiAs",
     "verification": "https://www.youtube.com/watch?v=9jwmtbPA4C0",
     "showcase": "",
@@ -28,6 +28,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

@@ -2,7 +2,7 @@
     "id": 5490008,
     "name": "Death Theory",
     "author": "ZenthicAlpha",
-    "creators": ["ZenthicAlpha"],
+    "creators": [""],
     "verifier": "ZenthicAlpha",
     "verification": "https://www.youtube.com/watch?v=_InssOsSCXE",
     "showcase": "",
@@ -22,6 +22,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

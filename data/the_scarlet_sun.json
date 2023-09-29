@@ -2,7 +2,7 @@
     "id": 42315135,
     "name": "The Scarlet Sun",
     "author": "loltad",
-    "creators": ["loltad"],
+    "creators": [""],
     "verifier": "loltad",
     "verification": "https://www.youtube.com/watch?v=mHWLD1TT4J4",
     "showcase": "",
@@ -34,6 +34,12 @@
         },
         {
             "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
             "link": "",
             "percent": 100,
             "hz": 360

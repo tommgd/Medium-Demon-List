@@ -2,7 +2,7 @@
     "id": 34585270,
     "name": "Ride",
     "author": "EndLevel",
-    "creators": ["EndLevel"],
+    "creators": [""],
     "verifier": "EndLevel",
     "verification": "https://www.youtube.com/watch?v=4WuRjGUr4Fg",
     "showcase": "",
@@ -39,7 +39,19 @@
             "hz": 360
         },
         {
+            "user": "DenyZr",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "lightning",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Brachiozaur",
             "link": "",
             "percent": 100,
             "hz": 360
