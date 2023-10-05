@@ -7,5 +7,48 @@
     "verification": "https://youtu.be/1XnyxX9uHz0?si=lN4WdCt3vG6vBfTh",
     "percentToQualify": 100,
     "password": "91022",
-    "records": []
+    "records": [
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "lv3plane",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cripencio99crip",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "mk4578",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "not epic",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wandee",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }

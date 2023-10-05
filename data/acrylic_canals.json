@@ -7,5 +7,36 @@
     "verification": "https://youtu.be/4R_TK_4ZniE?si=-_I7fZ8oH1-vRY_f",
     "showcase": "",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Music Addict",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Aaden.mp4",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Royale",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "M1Sushi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
