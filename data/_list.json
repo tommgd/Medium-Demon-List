@@ -65,12 +65,12 @@
     "epilogue",
     "eff",
     "final_destination",
+    "digital_action",
     "pigstep",
     "rewind",
     "retina",
     "simg_factorial_8",
     "battletown",
     "hydraulics",
-    "demon_world",
-    "based"
+    "demon_world"
 ]
