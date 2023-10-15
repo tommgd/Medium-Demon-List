@@ -1,0 +1,23 @@
+{
+    "id": 82455539,
+    "name": "Good karma",
+    "author": "a2susie",
+    "creators": [],
+    "verifier": "marii",
+    "verification": "https://www.youtube.com/watch?v=09tFvRi1L7s&t=20s",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "spectryl",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Aaden.mp4",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
