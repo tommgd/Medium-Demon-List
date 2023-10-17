@@ -1,0 +1,29 @@
+{
+    "id": 87981410,
+    "name": "and more",
+    "author": "Weirdvoids",
+    "creators": [],
+    "verifier": "Weirdvoids",
+    "verification": "https://www.youtube.com/watch?v=229hs6ErBpE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
