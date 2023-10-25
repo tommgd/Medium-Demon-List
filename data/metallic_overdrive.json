@@ -43,6 +43,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "SafeSpace",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
