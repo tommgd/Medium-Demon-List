@@ -61,6 +61,18 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "FBITB",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
