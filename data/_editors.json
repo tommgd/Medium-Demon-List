@@ -1,8 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "Scy",
-        "link": "https://www.youtube.com/channel/UCfv_RvdOwqMaDateGYK__0g"
+        "name": "cripencio99crip",
+        "link": "https://www.youtube.com/@cripencio99crip"
     },
     {
         "role": "helper",
@@ -21,8 +21,8 @@
     },
     {
         "role": "helper",
-        "name": "cripencio99crip",
-        "link": "https://www.youtube.com/@cripencio99crip"
+        "name": "Scy",
+        "link": "https://www.youtube.com/channel/UCfv_RvdOwqMaDateGYK__0g"
     },
     {
         "role": "helper",
@@ -40,13 +40,13 @@
         "link": "https://www.youtube.com/@M1Sushi"
     },
     {
+        "role": "helper",
+        "name": "Kuba",
+        "link": "https://www.youtube.com/channel/UCbaKMmbpFvZ_IqMSRvQz5cw"
+    },
+    {
         "role": "dev",
         "name": "simse",
         "link": "https://www.youtube.com/@simse./featured"
     },
-    {
-        "role": "dev",
-        "name": "spectryl",
-        "link": "https://www.youtube.com/@loveSpectral"
-    }
 ]
