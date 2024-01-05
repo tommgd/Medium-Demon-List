@@ -14,13 +14,13 @@
             "percent": 100,
             "hz": 360
         },
-                        {
+        {
             "user": "Kuba",
             "link": "",
             "percent": 100,
             "hz": 360
         },
-                {
+        {
             "user": "Maltow",
             "link": "",
             "percent": 100,
@@ -70,6 +70,12 @@
         },
         {
             "user": "Gygaax",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Redcat",
             "link": "",
             "percent": 100,
             "hz": 240
