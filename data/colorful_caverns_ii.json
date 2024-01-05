@@ -8,19 +8,19 @@
     "showcase": "",
     "percentToQualify": 100,
     "records": [
-                {
+       {
             "user": "cripencio99crip",
             "link": "",
             "percent": 100,
             "hz": 360
         },
-                                {
+        {
             "user": "Kuba",
             "link": "",
             "percent": 100,
             "hz": 360
         },
-                {
+        {
             "user": "Abeginner",
             "link": "",
             "percent": 100,
@@ -112,6 +112,12 @@
         },
         {
             "user": "GTA6Racer",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Redcat",
             "link": "",
             "percent": 100,
             "hz": 240
