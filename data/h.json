@@ -9,7 +9,7 @@
     "percentToQualify": 100,
     "records": [
         {
-            "user": "kuba",
+            "user": "Kuba",
             "link": "",
             "percent": 100,
             "hz": 360
@@ -37,6 +37,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "kubalolxd7",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
