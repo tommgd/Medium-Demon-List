@@ -58,6 +58,7 @@
     "aspect",
     "snow_temple",
     "eff",
+    "nautilus",
     "eyestrike",
     "bonus_level",
     "rebirth",
@@ -71,6 +72,5 @@
     "spring",
     "final_destination",
     "digital_action",
-    "pigstep",
-    "rewind"
+    "pigstep"
 ]
