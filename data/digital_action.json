@@ -1,9 +1,9 @@
 {
     "id": 84605480,
     "name": "Digital Action",
-    "author": "Fattes",
+    "author": "FatesG",
     "creators": [],
-    "verifier": "Fattes",
+    "verifier": "FatesG",
     "verification": "https://www.youtube.com/watch?v=RbdmIS18pu8",
     "percentToQualify": 100,
     "records": [
@@ -33,6 +33,12 @@
         },
         {
             "user": "deadbush",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Leckylecks",
             "link": "",
             "percent": 100,
             "hz": 360
