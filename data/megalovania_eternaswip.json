@@ -74,7 +74,7 @@
             "hz": 360
         },
         {
-            "user": "yoshi",
+            "user": "Yoshi",
             "link": "",
             "percent": 100,
             "hz": 240
@@ -84,6 +84,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "d c s",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
