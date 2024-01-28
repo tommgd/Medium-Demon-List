@@ -11,13 +11,28 @@
     },
     {
         "role": "helper",
-        "name": "Bobbyp02",
-        "link": "https://www.youtube.com/@Bobbyp02GD"
+        "name": "CoolVLAD",
+        "link": "https://www.youtube.com/@CoolVLAD"
     },
     {
         "role": "helper",
-        "name": "CoolVLAD",
-        "link": "https://www.youtube.com/@CoolVLAD"
+        "name": "Kuba",
+        "link": "https://www.youtube.com/@jacobyt664"
+    },
+    {
+        "role": "helper",
+        "name": "Leckylecks",
+        "link": "https://www.youtube.com/@LeckyLecks"
+    },
+    {
+        "role": "helper",
+        "name": "DIUS3D",
+        "link": "https://www.youtube.com/@dius3d"
+    },
+    {
+        "role": "helper",
+        "name": "kubalolxd7",
+        "link": ""
     },
     {
         "role": "helper",
@@ -38,11 +53,6 @@
         "role": "helper",
         "name": "M1Sushi",
         "link": "https://www.youtube.com/@M1Sushi"
-    },
-    {
-        "role": "helper",
-        "name": "Kuba",
-        "link": "https://www.youtube.com/channel/UCbaKMmbpFvZ_IqMSRvQz5cw"
     },
     {
         "role": "dev",
