@@ -54,6 +54,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "infra2792",
+            "link": "",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
