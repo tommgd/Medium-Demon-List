@@ -68,7 +68,7 @@
             "percent": 100,
             "hz": 360
         },
-    {
+        {
             "user": "Leckylecks",
             "link": "",
             "percent": 100,
@@ -100,6 +100,12 @@
         },
         {
             "user": "drige",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoshi",
             "link": "",
             "percent": 100,
             "hz": 360
