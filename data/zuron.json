@@ -1,12 +1,18 @@
 {
     "id": 33942408,
     "name": "Zuron",
-    "author": "Dragnalus",
+    "author": "dragnalus",
     "creators": [],
-    "verifier": "Dragnalus",
+    "verifier": "dragnalus",
     "verification": "https://youtu.be/6kk_Ct01OTY?si=M9N0aPDZ_AXe-Lbj",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "dragnalus",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Kuba",
             "link": "",
