@@ -1,0 +1,23 @@
+{
+    "id": 33942408,
+    "name": "Zuron",
+    "author": "Dragnalus",
+    "creators": [],
+    "verifier": "Dragnalus",
+    "verification": "https://youtu.be/6kk_Ct01OTY?si=M9N0aPDZ_AXe-Lbj",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "lv3plane",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
