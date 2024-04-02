@@ -1,0 +1,24 @@
+{
+    "id": 50484103,
+    "name": "Blast Parallax",
+    "author": "Lipz",
+    "creators": [],
+    "verifier": "Lipz",
+    "verification": "https://youtu.be/B1NuAQqLfwk?si=92kPWOpFOd623vJV",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
