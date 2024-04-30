@@ -150,7 +150,13 @@
             "user": "insosil",
             "link": "",
             "percent": 100,
-            "hz": 360    
+            "hz": 360
+        },
+        {
+            "user": "Septanesium",
+            "link": "",
+            "percent": 100,
+            "hz": 240    
         }
     ]
 }
