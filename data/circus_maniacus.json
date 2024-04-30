@@ -102,6 +102,12 @@
             "user": "yoshi",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "h x t r e d",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
