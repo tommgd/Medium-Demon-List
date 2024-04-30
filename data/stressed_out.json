@@ -156,6 +156,12 @@
             "user": "nsogmnc",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "lettuce2",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
