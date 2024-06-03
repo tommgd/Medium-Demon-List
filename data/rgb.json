@@ -168,7 +168,13 @@
             "user": "Chonkey",
             "link": "",
             "percent": 100,
-            "hz": 240    
+            "hz": 240
+        },
+        {
+            "user": "CtrlZ",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
         }
     ]
 }
