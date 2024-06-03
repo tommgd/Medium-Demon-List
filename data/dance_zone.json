@@ -96,6 +96,12 @@
             "user": "FBITB",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DerModster",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
