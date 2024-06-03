@@ -180,7 +180,13 @@
             "user": "scape167",
             "link": "",
             "percent": 100,
-            "hz": 240    
+            "hz": 240
+        },
+        {
+            "user": "DerModster",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
         }
     ]
 }
