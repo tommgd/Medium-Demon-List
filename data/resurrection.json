@@ -216,6 +216,12 @@
             "user": "DerModster",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FireBird",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
