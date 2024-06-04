@@ -222,6 +222,12 @@
             "user": "FireBird",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dwibble",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
