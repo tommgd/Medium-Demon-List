@@ -78,6 +78,12 @@
             "user": "Kuzdavo",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Redcat",
+            "link": "https://youtu.be/uvY7iiBwPUo?si=MNDyKwqEAR-o4tGD",
+            "percent": 100,
             "hz": 360    
         }
     ]
