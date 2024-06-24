@@ -1,6 +1,11 @@
 [
     {
         "role": "owner",
+        "name": "Kuba",
+        "link": "https://www.youtube.com/@jacobyt664"
+    },
+    {
+        "role": "heler",
         "name": "cripencio99crip",
         "link": "https://www.youtube.com/@cripencio99crip"
     },
@@ -16,13 +21,13 @@
     },
     {
         "role": "helper",
-        "name": "Kuba",
-        "link": "https://www.youtube.com/@jacobyt664"
+        "name": "DIUS3D",
+        "link": "https://www.youtube.com/@dius3d"
     },
     {
         "role": "helper",
-        "name": "DIUS3D",
-        "link": "https://www.youtube.com/@dius3d"
+        "name": "FBITB",
+        "link": "https://youtube.com/@fbitb-gd?si=pEwtmFpaT1PMNBoD"
     },
     {
         "role": "helper",
