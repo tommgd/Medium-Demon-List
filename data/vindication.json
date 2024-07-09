@@ -78,6 +78,12 @@
             "user": "Kuzdavo",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "xanyx",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
