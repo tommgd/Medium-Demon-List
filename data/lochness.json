@@ -1,0 +1,48 @@
+{
+    "id": 105448036,
+    "name": "lochness",
+    "author": "SundayGMD ",
+    "creators": ["SundayGMD, StarSign"],
+    "verifier": "SundayGMD",
+    "verification": "https://www.youtube.com/watch?v=k3UsbCiM6nA",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Rex Mohs",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Angeb",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Yoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
