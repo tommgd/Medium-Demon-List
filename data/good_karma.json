@@ -53,7 +53,13 @@
             "user": "JoacoPe",
             "link": "",
             "percent": 100,
-            "hz": 360    
+            "hz": 360
+        },
+        {
+            "user": "RelieV",
+            "link": "",
+            "percent": 100,
+            "hz": 240    
         }
     ]
 }
