@@ -95,7 +95,13 @@
             "user": "RelieV",
             "link": "",
             "percent": 100,
-            "hz": 240    
+            "hz": 240
+        },
+        {
+            "user": "kingdom888",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
         }
     ]
 }
