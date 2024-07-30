@@ -72,7 +72,13 @@
             "user": "deadbush",
             "link": "",
             "percent": 100,
-            "hz": 360    
+            "hz": 360
+        },
+        {
+            "user": "DavidTheMaze",
+            "link": "",
+            "percent": 100,
+            "hz": 240    
         }
     ]
 }
