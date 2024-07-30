@@ -144,6 +144,12 @@
             "user": "kingdom888",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "jkrt2",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
