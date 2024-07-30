@@ -71,6 +71,12 @@
             "user": "DerModster",
             "link": "https://youtu.be/Xj8Q0z4vuVU?si=cSsYjV4QWgyUX23V&t=5555",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
