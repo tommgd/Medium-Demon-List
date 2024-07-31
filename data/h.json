@@ -108,7 +108,19 @@
             "user": "JoacoPe",
             "link": "",
             "percent": 100,
-            "hz": 360    
+            "hz": 360
+        },
+        {
+            "user": "Angeb",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Clood",
+            "link": "",
+            "percent": 100,
+            "hz": 240    
         }
     ]
 }
