@@ -126,6 +126,12 @@
             "user": "deadbush",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Marky",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
