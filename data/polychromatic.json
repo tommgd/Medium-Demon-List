@@ -120,7 +120,13 @@
             "user": "illum",
             "link": "",
             "percent": 100,
-            "hz": 240    
+            "hz": 240
+        },
+        {
+            "user": "Marky",
+            "link": "https://youtu.be/3QdCVIfkqKc?si=L39j88xD35Qw70hh",
+            "percent": 100,
+            "hz": 360    
         }
     ]
 }
