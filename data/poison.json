@@ -1,0 +1,60 @@
+{
+    "id": 26753878,
+    "name": "poison",
+    "author": "Tronzeki",
+    "creators": [],
+    "verifier": "Tronzeki",
+    "verification": "https://youtu.be/KnUWIixmTgI?si=n8VWlnbRGZnTBJJN",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
+        },
+        {
+            "user": "Yoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Royale",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
+        },
+        {
+            "user": "illum",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
+        },
+        {
+            "user": "JK78",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
+        },
+        {
+            "user": "deadbush",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
+        }
+    ]
+}
