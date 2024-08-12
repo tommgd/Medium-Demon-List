@@ -186,6 +186,12 @@
             "user": "Marky",
             "link": "https://youtu.be/9qB3Qkvw5HA?si=IWG-MOnQqIFuoRsX",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Fawxu",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
