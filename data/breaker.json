@@ -90,6 +90,12 @@
             "user": "yoshi",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "deadbush",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
