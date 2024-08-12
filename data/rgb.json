@@ -192,6 +192,12 @@
             "user": "Flainn",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kingdom888",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
