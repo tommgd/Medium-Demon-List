@@ -114,6 +114,12 @@
             "user": "RelieV",
             "link": "",
             "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Redcat",
+            "link": "",
+            "percent": 100,
             "hz": 240    
         }
     ]
