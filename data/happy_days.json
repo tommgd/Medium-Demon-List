@@ -144,7 +144,13 @@
             "user": "illum",
             "link": "",
             "percent": 100,
-            "hz": 240    
+            "hz": 240
+        },
+        {
+            "user": "Fawxu",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
         }
     ]
 }
