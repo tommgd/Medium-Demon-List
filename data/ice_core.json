@@ -84,7 +84,13 @@
             "user": "Fawxu",
             "link": "",
             "percent": 100,
-            "hz": 360    
+            "hz": 360
+        },
+        {
+            "user": "Angeb",
+            "link": "",
+            "percent": 100,
+            "hz": 240    
         }
     ]
 }
