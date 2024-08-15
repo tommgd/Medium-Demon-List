@@ -125,6 +125,12 @@
             "user": "Bobbyp02",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Joaquin",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
