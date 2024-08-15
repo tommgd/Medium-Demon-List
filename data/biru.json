@@ -156,7 +156,13 @@
             "user": "CroKrox",
             "link": "",
             "percent": 100,
-            "hz": 240    
+            "hz": 240
+        },
+        {
+            "user": "Joaquin",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
         }
     ]
 }
