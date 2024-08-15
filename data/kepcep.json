@@ -72,6 +72,12 @@
             "user": "Fawxu",
             "link": "",
             "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Joaquin",
+            "link": "",
+            "percent": 100,
             "hz": 360    
         }
     ]
