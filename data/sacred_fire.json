@@ -1,0 +1,54 @@
+{
+    "id": 43002201,
+    "name": "Sacred Fire",
+    "author": "CreatorAurum",
+    "creators": [],
+    "verifier": "CreatorAurum",
+    "verification": "https://youtu.be/5e86qL38R_U?si=HfTOgzBgs7-2ZCTW",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Redcat",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
+        },
+        {
+            "user": "yoshi",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
+        },
+        {
+            "user": "Abeginner",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
+        },
+        {
+            "user": "shenanigans",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kuba",
+            "link": "",
+            "percent": 100,
+            "hz": 360    
+        },
+        {
+            "user": "DIUS3D",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
