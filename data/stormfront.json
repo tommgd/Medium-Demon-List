@@ -8,14 +8,10 @@
     "showcase": "",
     "percentToQualify": 100,
     "records": [
-        },
-                "user": "Angeb",
-
+        {
+            "user": "Angeb",
             "link": "",
-
             "percent": 100,
-
             "hz": 360
-
-       {
+        }
 }
