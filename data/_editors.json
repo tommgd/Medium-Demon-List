@@ -1,62 +1,32 @@
 [
     {
         "role": "owner",
-        "name": "Kuba",
-        "link": "https://www.youtube.com/@jacobyt664"
+        "name": "tomm",
+        "link": ""
     },
     {
-        "role": "helper",
-        "name": "DIUS3D",
-        "link": "https://www.youtube.com/@dius3d"
-    },
-    {
-        "role": "helper",
-        "name": "cripencio99crip",
-        "link": "https://www.youtube.com/@cripencio99crip"
-    },
-    {
-        "role": "helper",
-        "name": "StarfruitGamer123",
-        "link": "https://www.youtube.com/@StarfruitGamer123"
-    },
-    {
-        "role": "helper",
-        "name": "CoolVLAD",
-        "link": "https://www.youtube.com/@CoolVLAD"
-    },
-    {
-        "role": "helper",
-        "name": "FBITB",
-        "link": "https://youtube.com/@fbitb-gd?si=pEwtmFpaT1PMNBoD"
-    },
-    {
-        "role": "helper",
-        "name": "kubalolxd7",
-        "link": "https://www.youtube.com/@twojastaratomizeriababcia8400"
-    },
-    {
-        "role": "helper",
-        "name": "Scy",
-        "link": "https://www.youtube.com/channel/UCfv_RvdOwqMaDateGYK__0g"
-    },
-    {
-        "role": "helper",
-        "name": "lv3plane",
-        "link": "https://www.youtube.com/@lv3plane"
-    },
-    {
-        "role": "helper",
-        "name": "Faith",
+        "role": "owner",
+        "name": "Bobbbyp02",
         "link": ""
     },
     {
         "role": "helper",
-        "name": "M1Sushi",
-        "link": "https://www.youtube.com/@M1Sushi"
+        "name": "Aph",
+        "link": ""
     },
     {
-        "role": "dev",
-        "name": "simse",
-        "link": "https://www.youtube.com/@simse./featured"
+        "role": "helper",
+        "name": "Azaelff",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "Chonkeh",
+        "link": ""
+    },
+    {
+        "role": "helper",
+        "name": "Leckylecks",
+        "link": ""
     }
 ]
