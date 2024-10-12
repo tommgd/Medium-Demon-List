@@ -7,42 +7,5 @@
     "verification": "https://youtu.be/B1NuAQqLfwk?si=92kPWOpFOd623vJV",
     "showcase": "",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Kuba",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Yoshi",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "deadbush",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "DIUS3D",
-            "link": "",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "DerModster",
-            "link": "https://youtu.be/Xj8Q0z4vuVU?si=yCWR40BC62nJnJ6c&t=611",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "JoacoPe",
-            "link": "",
-            "percent": 100,
-            "hz": 360    
-        }
-    ]
+    "records": []
 }
