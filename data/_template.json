@@ -1,0 +1,11 @@
+{
+    "id": 12345678,
+    "name": "Level Name",
+    "author": "Publisher",
+    "creators": ["Creator 1, Creator 2"],
+    "verifier": "Verifier",
+    "verification": "https://www.youtube.com",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": []
+}
