@@ -8,5 +8,17 @@
     "showcase": "",
     "percentToQualify": 100,
     "records": [  
+        {
+            "user": "Chonkey",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fawxu",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

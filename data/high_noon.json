@@ -7,5 +7,18 @@
     "verification": "https://youtu.be/E_ePqyhO5NY?si=aDOZyaAkOuRTgarx",
     "showcase": "",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "tomm",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fawxu",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
