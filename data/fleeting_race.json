@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/h37tIVgv1-I",
     "showcase": "",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+			"user": "Aph",
+			"link": "",
+			"percent": 100,
+			"hz": 
+		},
+    ]
 }
