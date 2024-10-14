@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=07a9b4Q0jes",
     "showcase": "",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Azaelff",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
