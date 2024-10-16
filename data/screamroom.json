@@ -21,7 +21,7 @@
 			"hz": 240
 		},
         {
-			"user": "lightning",
+			"user": "L1GHTNING",
 			"link": "",
 			"percent": 100,
 			"hz": 240
@@ -43,12 +43,6 @@
             "link": "",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "JoacoPe",
-            "link": "",
-            "percent": 100,
-            "hz": 240
-        }   
+        }
     ]
 }
