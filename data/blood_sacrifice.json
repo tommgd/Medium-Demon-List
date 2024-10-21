@@ -9,37 +9,38 @@
     "percentToQualify": 100,
     "records": [
         {
-    "Aph": "",
+            
+    "user": "Aph",
     "link": "",
     "percent": 100,
     "hz": 240
 },
         {
-    "Chahnkeh": "",
+    "user": "Chahnkeh",
     "link": "",
     "percent": 100,
     "hz": 240
 },
         {
-    "deadbush": "",
+    "user": "deadbush",
     "link": "",
     "percent": 100,
     "hz": 240
 },
         {
-    "Diffusion": "",
+    "user": "Diffusion",
     "link": "",
     "percent": 100,
     "hz": 240
 },
         {
-    "JoacoPe": "",
+    "user": "JoacoPe",
     "link": "",
     "percent": 100,
     "hz": 240
 },
         {
-    "Robaleg9": "",
+    "user": "Robaleg9",
     "link": "",
     "percent": 100,
     "hz": 240
