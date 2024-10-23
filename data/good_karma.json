@@ -6,5 +6,36 @@
     "verifier": "marii",
     "verification": "https://www.youtube.com/watch?v=09tFvRi1L7s&t=20s",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Charlielecks",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "deadbush",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Azaelff",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
