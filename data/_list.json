@@ -33,7 +33,6 @@
     "lochness",
     "screamroom",
     "the_prophetius",
-    "simple_fuse",
     "circus_maniacus",
     "nautilus",
     "breaker",
@@ -53,5 +52,6 @@
     "snow_temple",
     "lava_temple",
     "scarlet_devil",
-    "cyberize"
+    "cyberize",
+    "simple_fuse"
 ]
