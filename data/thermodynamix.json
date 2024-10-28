@@ -1,0 +1,42 @@
+{
+    "id": 38919484,
+    "name": "Thermodynamix",
+    "author": "CastriX",
+    "creators": ["CastriX"],
+    "verifier": "Dorami",
+    "verification": "https://www.youtube.com/watch?v=phnLWMqg4Yo",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+          "user": "L1GHTNING",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Frogs65",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Chahnkeh",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Robaleg9",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "deadbush",
+          "link": "",
+          "percent": 100,
+          "hz": 240
+        }
+    ]
+}
