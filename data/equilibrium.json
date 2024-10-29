@@ -1,0 +1,42 @@
+{
+    "id": 14572366,
+    "name": "Equilibrium",
+    "author": "SkiesCore",
+    "creators": ["SkiesCore, BaconPotato"],
+    "verifier": "SkiesCore",
+    "verification": "https://www.youtube.com/watch?v=aQ_jGsbRH88",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Frogs65",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Robaleg9",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Aph",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
