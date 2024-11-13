@@ -68,8 +68,20 @@
             "percent": 100,
             "hz": 240
         },
-   {
+        {
             "user": "Peregrine",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "RelieV",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ChaeTDC",
             "link": "",
             "percent": 100,
             "hz": 240
