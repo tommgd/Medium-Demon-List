@@ -1,0 +1,36 @@
+{
+    "id": 11935082,
+    "name": "Azure Sky",
+    "author": "pg1004",
+    "creators": ["pg1004, Cosine"],
+    "verifier": "pg1004",
+    "verification": "https://youtu.be/M8L5cdpZHlc",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "L1GHTNING",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "deadbush",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
