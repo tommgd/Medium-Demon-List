@@ -8,35 +8,41 @@
     "showcase": "",
     "percentToQualify": 100,
     "records": [
-      {
-    "user": "Azaelff",
-    "link": "",
-    "percent": 100,
-    "hz": 240
-      },   
-      {
-    "user": "deadbush",
-    "link": "",
-    "percent": 100,
-    "hz": 240
-      },   
-      {
-    "user": "Frogs65",
-    "link": "",
-    "percent": 100,
-    "hz": 240
-      },   
-      {
-    "user": "Chahnkeh",
-    "link": "",
-    "percent": 100,
-    "hz": 240
-      },   
-      {
-    "user": "A05Polzar",
-    "link": "",
-    "percent": 100,
-    "hz": 240
-      }
+        {
+            "user": "Azaelff",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },   
+        {
+            "user": "deadbush",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },   
+        {
+            "user": "Frogs65",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },   
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "A05Polzar",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
