@@ -6,5 +6,42 @@
     "verifier": "dragnalus",
     "verification": "https://youtu.be/6kk_Ct01OTY?si=M9N0aPDZ_AXe-Lbj",
     "percentToQualify": 100,
-    "records": [ ]
+    "records": [
+        {
+              "user": "Fawxu",
+              "link": "",
+              "percent": 100,
+              "hz": 240
+        },
+        {
+              "user": "Chahnkeh",
+              "link": "",
+              "percent": 100,
+              "hz": 240
+        },
+        {
+              "user": "JoacoPe",
+              "link": "",
+              "percent": 100,
+              "hz": 240
+        },
+        {
+            "user": "deadbush",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "RelieV",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ChaeTDC",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
