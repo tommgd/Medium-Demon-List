@@ -1,10 +1,8 @@
 [   "gerbil",
-    "armadillo_dash",
     "vaporize",
     "demon_swinging",
     "chronos",
     "dark_heaven",
-    "sacred_fire",
     "rainbow_force_z",
     "happy_days",
     "split_the_system",
@@ -67,5 +65,7 @@
     "azure_sky",
     "scarlet_devil",
     "cyberize",
-    "simple_fuse"
+    "simple_fuse",
+    "armadillo_dash",
+    "sacred_fire"
 ]
