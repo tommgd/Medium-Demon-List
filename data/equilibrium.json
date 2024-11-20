@@ -1,5 +1,5 @@
 {
-    "id": 14572366,
+    "id": 26934392,
     "name": "Equilibrium",
     "author": "SkiesCore",
     "creators": ["SkiesCore, BaconPotato"],
@@ -46,6 +46,12 @@
         },
         {
             "user": "ChaeTDC",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Identity",
             "link": "",
             "percent": 100,
             "hz": 240
