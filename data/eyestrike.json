@@ -7,5 +7,42 @@
     "verification": "https://youtu.be/1XnyxX9uHz0?si=lN4WdCt3vG6vBfTh",
     "percentToQualify": 100,
     "password": "91022",
-    "records": []
+    "records": [
+        {
+            "user": "Azaelff,
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "deadbush",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "RelieV",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Charlielecks",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
