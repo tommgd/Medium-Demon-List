@@ -1,0 +1,55 @@
+{
+    "id": 4976170,
+    "name": "Nether Sector",
+    "author": "Nether",
+    "creators": [""],
+    "verifier": "Nether",
+    "verification": "https://youtu.be/iRRoUicFoV0?si=OzUahuH4a_66quCM",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Aph",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fawxu",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SafeSpace",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Peregrine",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
+        
