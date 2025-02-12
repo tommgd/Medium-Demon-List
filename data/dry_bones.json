@@ -1,0 +1,30 @@
+{
+    "id": 91534923,
+    "name": "DRY BONES",
+    "author": "whlt",
+    "creators": ["whlt, Sportscarz11, Rowanm, OliXor, plexx, J65, ImMaxX1, MCres, Aimbotter2123, MaxxoRMeN, Wyntaee, TBK, Varse"],
+    "verifier": "Wulzy",
+    "verification": "https://youtu.be/wQ8KVg5dZRw",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "L1GHTNING",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
