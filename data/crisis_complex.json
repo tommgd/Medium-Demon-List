@@ -1,0 +1,48 @@
+{
+    "id": 52663172,
+    "name": "Crisis Complex",
+    "author": "Lemeons",
+    "creators": ["Lemons"],
+    "verifier": "Lemons",
+    "verification": "https://www.youtube.com/watch?v=CWBt-DdHbc0",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fawxu",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "L1GHTNING",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "A05Polzar",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SmileBullet",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
