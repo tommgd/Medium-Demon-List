@@ -1,0 +1,36 @@
+{
+    "id": 14649393,
+    "name": "Sadness",
+    "author": "xtobe5",
+    "creators": ["xtobe5"],
+    "verifier": "xtobe5",
+    "verification": "https://youtu.be/HJHmzqWo6Ik",
+    "showcase": "",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Frogs65",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fawxu",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Chahnkeh",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
